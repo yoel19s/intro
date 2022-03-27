@@ -14,7 +14,7 @@ export default function Home() {
         <Header title="Thankyou for visiting!" />
         <p className="description">
           Can we make a conversation? 
-          <h5><link rel="Start with WhatsApp" href="https://wa.me/6283844000383/" /></h5>        
+          <link rel="Start with WhatsApp" href="https://wa.me/6283844000383/" />      
        </p>
       </main>
 
