@@ -6,15 +6,16 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Yoel</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Thankyou for visiting!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
-        </p>
+          Can we make a conversation? 
+          <h5><link rel="Start with WhatsApp" href="https://wa.me/6283844000383/" /></h5>        
+       </p>
       </main>
 
       <Footer />
